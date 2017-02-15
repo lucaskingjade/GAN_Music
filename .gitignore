@@ -1,0 +1,6 @@
+*.yaml
+*.hdf5
+*.pyc
+*.idea/
+*.png
+*.pdf
